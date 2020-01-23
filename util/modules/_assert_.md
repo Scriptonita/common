@@ -14,7 +14,7 @@
 
 ▸ **assert**(`condition`: any, `message`: string | MessageFn): *asserts condition*
 
-*Defined in [assert.ts:26](https://github.com/polkadot-js/common/blob/4ce452b4/packages/util/src/assert.ts#L26)*
+*Defined in [assert.ts:26](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/util/src/assert.ts#L26)*
 
 **`name`** assert
 
