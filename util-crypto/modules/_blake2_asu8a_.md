@@ -14,7 +14,7 @@
 
 ▸ **blake2AsU8a**(`data`: Uint8Array | string, `bitLength`: number, `key`: Uint8Array | null): *Uint8Array*
 
-*Defined in [blake2/asU8a.ts:23](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/util-crypto/src/blake2/asU8a.ts#L23)*
+*Defined in [blake2/asU8a.ts:23](https://github.com/polkadot-js/common/blob/4e8cb2af/packages/util-crypto/src/blake2/asU8a.ts#L23)*
 
 **`name`** blake2AsU8a
 
@@ -38,6 +38,6 @@ Name | Type | Default |
 ------ | ------ | ------ |
 `data` | Uint8Array &#124; string | - |
 `bitLength` | number | 256 |
-`key` | Uint8Array &#124; null |  null |
+`key` | Uint8Array &#124; null | null |
 
 **Returns:** *Uint8Array*

@@ -14,7 +14,7 @@
 
 ▸ **schnorrkelSign**(`message`: Uint8Array | string, `__namedParameters`: object): *Uint8Array*
 
-*Defined in [schnorrkel/sign.ts:16](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/util-crypto/src/schnorrkel/sign.ts#L16)*
+*Defined in [schnorrkel/sign.ts:16](https://github.com/polkadot-js/common/blob/4e8cb2af/packages/util-crypto/src/schnorrkel/sign.ts#L16)*
 
 **`name`** schnorrkelSign
 
@@ -22,9 +22,13 @@
 
 **Parameters:**
 
+▪ **message**: *Uint8Array | string*
+
+▪ **__namedParameters**: *object*
+
 Name | Type |
 ------ | ------ |
-`message` | Uint8Array &#124; string |
-`__namedParameters` | object |
+`publicKey` | undefined &#124; Uint8Array‹› |
+`secretKey` | undefined &#124; Uint8Array‹› |
 
 **Returns:** *Uint8Array*

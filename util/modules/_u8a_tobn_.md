@@ -14,7 +14,7 @@
 
 ▸ **u8aToBn**(`value`: Uint8Array, `options`: [ToBnOptions](../interfaces/_types_.tobnoptions.md) | boolean): *BN*
 
-*Defined in [u8a/toBn.ts:29](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/util/src/u8a/toBn.ts#L29)*
+*Defined in [u8a/toBn.ts:29](https://github.com/polkadot-js/common/blob/4e8cb2af/packages/util/src/u8a/toBn.ts#L29)*
 
 **`name`** u8aToBn
 
@@ -37,6 +37,6 @@ u8aToHex(new Uint8Array([0x68, 0x65, 0x6c, 0x6c, 0xf])); // 0x68656c0f
 Name | Type | Default | Description |
 ------ | ------ | ------ | ------ |
 `value` | Uint8Array | - | The value to convert |
-`options` | [ToBnOptions](../interfaces/_types_.tobnoptions.md) &#124; boolean |  { isLe: true, isNegative: false } | Options to pass while converting |
+`options` | [ToBnOptions](../interfaces/_types_.tobnoptions.md) &#124; boolean | { isLe: true, isNegative: false } | Options to pass while converting |
 
 **Returns:** *BN*

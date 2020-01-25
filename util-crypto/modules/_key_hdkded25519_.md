@@ -14,13 +14,17 @@
 
 ▸ **keyHdkdEd25519**(`keypair`: [Keypair](../interfaces/_types_.keypair.md), `__namedParameters`: object): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [key/hdkdEd25519.ts:13](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/util-crypto/src/key/hdkdEd25519.ts#L13)*
+*Defined in [key/hdkdEd25519.ts:13](https://github.com/polkadot-js/common/blob/4e8cb2af/packages/util-crypto/src/key/hdkdEd25519.ts#L13)*
 
 **Parameters:**
 
+▪ **keypair**: *[Keypair](../interfaces/_types_.keypair.md)*
+
+▪ **__namedParameters**: *object*
+
 Name | Type |
 ------ | ------ |
-`keypair` | [Keypair](../interfaces/_types_.keypair.md) |
-`__namedParameters` | object |
+`chainCode` | Uint8Array‹› |
+`isHard` | boolean |
 
 **Returns:** *[Keypair](../interfaces/_types_.keypair.md)*

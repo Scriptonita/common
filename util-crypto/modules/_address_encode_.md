@@ -14,13 +14,13 @@
 
 ▸ **encode**(`_key`: Uint8Array | string, `ss58Format`: [Prefix](_address_types_.md#prefix)): *string*
 
-*Defined in [address/encode.ts:16](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/util-crypto/src/address/encode.ts#L16)*
+*Defined in [address/encode.ts:16](https://github.com/polkadot-js/common/blob/4e8cb2af/packages/util-crypto/src/address/encode.ts#L16)*
 
 **Parameters:**
 
 Name | Type | Default |
 ------ | ------ | ------ |
 `_key` | Uint8Array &#124; string | - |
-`ss58Format` | [Prefix](_address_types_.md#prefix) |  defaults.prefix |
+`ss58Format` | [Prefix](_address_types_.md#prefix) | defaults.prefix |
 
 **Returns:** *string*

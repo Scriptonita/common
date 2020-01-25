@@ -14,13 +14,17 @@
 
 ▸ **encode**(`__namedParameters`: object, `passphrase?`: undefined | string): *Uint8Array*
 
-*Defined in [pair/encode.ts:12](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/keyring/src/pair/encode.ts#L12)*
+*Defined in [pair/encode.ts:12](https://github.com/polkadot-js/common/blob/4e8cb2af/packages/keyring/src/pair/encode.ts#L12)*
 
 **Parameters:**
 
+▪ **__namedParameters**: *object*
+
 Name | Type |
 ------ | ------ |
-`__namedParameters` | object |
-`passphrase?` | undefined &#124; string |
+`publicKey` | Uint8Array‹› |
+`secretKey` | undefined &#124; Uint8Array‹› |
+
+▪`Optional`  **passphrase**: *undefined | string*
 
 **Returns:** *Uint8Array*

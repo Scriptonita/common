@@ -16,7 +16,7 @@
 
 ### `Const` PAIRS
 
-• **PAIRS**: *PairDef[]* =  [
+• **PAIRS**: *PairDef[]* = [
   {
     seed: 'Alice',
     secretKey: hexToU8a('0x98319d4ff8a9508c4bb0cf0b5a78d760a0b2082c02775e6e82370816fedfff48925a225d97aa00682d6a59b95b18780c10d7032336e88f3442b42361f4a66011'),
@@ -59,7 +59,7 @@
   }
 ]
 
-*Defined in [testing.ts:24](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/keyring/src/testing.ts#L24)*
+*Defined in [testing.ts:24](https://github.com/polkadot-js/common/blob/4e8cb2af/packages/keyring/src/testing.ts#L24)*
 
 ## Functions
 
@@ -67,7 +67,7 @@
 
 ▸ **testKeyring**(`options`: [KeyringOptions](../interfaces/_types_.keyringoptions.md), `isDerived`: boolean): *[KeyringInstance](../interfaces/_types_.keyringinstance.md)*
 
-*Defined in [testing.ts:73](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/keyring/src/testing.ts#L73)*
+*Defined in [testing.ts:73](https://github.com/polkadot-js/common/blob/4e8cb2af/packages/keyring/src/testing.ts#L73)*
 
 **`name`** testKeyring
 
@@ -80,7 +80,7 @@ are available on the dev chain and each test account is initialised with DOT fun
 
 Name | Type | Default |
 ------ | ------ | ------ |
-`options` | [KeyringOptions](../interfaces/_types_.keyringoptions.md) |  {} |
+`options` | [KeyringOptions](../interfaces/_types_.keyringoptions.md) | {} |
 `isDerived` | boolean | true |
 
 **Returns:** *[KeyringInstance](../interfaces/_types_.keyringinstance.md)*

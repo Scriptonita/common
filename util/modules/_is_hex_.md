@@ -14,7 +14,7 @@
 
 ▸ **isHex**(`value`: any, `bitLength`: number, `ignoreLength`: boolean): *value is string | String*
 
-*Defined in [is/hex.ts:25](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/util/src/is/hex.ts#L25)*
+*Defined in [is/hex.ts:25](https://github.com/polkadot-js/common/blob/4e8cb2af/packages/util/src/is/hex.ts#L25)*
 
 **`name`** isHex
 
@@ -38,7 +38,7 @@ isHex('0x1234', 8); // => false
 Name | Type | Default |
 ------ | ------ | ------ |
 `value` | any | - |
-`bitLength` | number |  -1 |
+`bitLength` | number | -1 |
 `ignoreLength` | boolean | false |
 
 **Returns:** *value is string | String*

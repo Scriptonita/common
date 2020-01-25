@@ -14,7 +14,7 @@
 
 ▸ **compactFromU8a**(`_input`: Uint8Array | string, `bitLength`: [BitLength](_compact_types_.md#bitlength)): *[number, BN]*
 
-*Defined in [compact/fromU8a.ts:27](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/util/src/compact/fromU8a.ts#L27)*
+*Defined in [compact/fromU8a.ts:27](https://github.com/polkadot-js/common/blob/4e8cb2af/packages/util/src/compact/fromU8a.ts#L27)*
 
 **`name`** compactFromU8a
 
@@ -36,6 +36,6 @@ console.log('value offset=', offset, 'length=', length); // 4, 0xffff
 Name | Type | Default |
 ------ | ------ | ------ |
 `_input` | Uint8Array &#124; string | - |
-`bitLength` | [BitLength](_compact_types_.md#bitlength) |  DEFAULT_BITLENGTH |
+`bitLength` | [BitLength](_compact_types_.md#bitlength) | DEFAULT_BITLENGTH |
 
 **Returns:** *[number, BN]*

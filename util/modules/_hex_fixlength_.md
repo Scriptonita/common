@@ -14,7 +14,7 @@
 
 ▸ **hexFixLength**(`value`: string, `bitLength`: number, `withPadding`: boolean): *string*
 
-*Defined in [hex/fixLength.ts:24](https://github.com/polkadot-js/common/blob/e09d0ca5/packages/util/src/hex/fixLength.ts#L24)*
+*Defined in [hex/fixLength.ts:24](https://github.com/polkadot-js/common/blob/4e8cb2af/packages/util/src/hex/fixLength.ts#L24)*
 
 **`name`** hexFixLength
 
@@ -39,7 +39,7 @@ console.log('fixed', hexFixLength('0x0012', 8)); // => 0x12
 Name | Type | Default |
 ------ | ------ | ------ |
 `value` | string | - |
-`bitLength` | number |  -1 |
+`bitLength` | number | -1 |
 `withPadding` | boolean | false |
 
 **Returns:** *string*
