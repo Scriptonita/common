@@ -14,7 +14,7 @@
 
 ▸ **deriveHard**(`keypair`: [Keypair](../interfaces/_types_.keypair.md), `chainCode`: Uint8Array): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [schnorrkel/deriveHard.ts:14](https://github.com/polkadot-js/common/blob/24991950/packages/util-crypto/src/schnorrkel/deriveHard.ts#L14)*
+*Defined in [schnorrkel/deriveHard.ts:14](https://github.com/polkadot-js/common/blob/e60bbbeb/packages/util-crypto/src/schnorrkel/deriveHard.ts#L14)*
 
 **Parameters:**
 
