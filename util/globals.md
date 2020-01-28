@@ -8,7 +8,6 @@
 
 * ["array/filter"](modules/_array_filter_.md)
 * ["assert"](modules/_assert_.md)
-* ["assertSingletonPackage"](modules/_assertsingletonpackage_.md)
 * ["bn/fromHex"](modules/_bn_fromhex_.md)
 * ["bn/max"](modules/_bn_max_.md)
 * ["bn/min"](modules/_bn_min_.md)
@@ -22,6 +21,7 @@
 * ["compact/stripLength"](modules/_compact_striplength_.md)
 * ["compact/toU8a"](modules/_compact_tou8a_.md)
 * ["compact/types"](modules/_compact_types_.md)
+* ["detectPackage"](modules/_detectpackage_.md)
 * ["format/formatBalance"](modules/_format_formatbalance_.md)
 * ["format/formatDecimal"](modules/_format_formatdecimal_.md)
 * ["format/formatElapsed"](modules/_format_formatelapsed_.md)
