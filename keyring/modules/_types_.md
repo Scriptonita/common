@@ -25,4 +25,4 @@
 
 Ƭ **KeyringPair$JsonVersion**: *"0" | "1" | "2"*
 
-*Defined in [types.ts:21](https://github.com/polkadot-js/common/blob/e60bbbeb/packages/keyring/src/types.ts#L21)*
+*Defined in [types.ts:21](https://github.com/polkadot-js/common/blob/b8411bb0/packages/keyring/src/types.ts#L21)*
