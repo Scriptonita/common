@@ -19,7 +19,7 @@
 
 • **NONCE_LENGTH**: *24* = 24
 
-*Defined in [pair/defaults.ts:5](https://github.com/polkadot-js/common/blob/b8411bb0/packages/keyring/src/pair/defaults.ts#L5)*
+*Defined in [pair/defaults.ts:5](https://github.com/polkadot-js/common/blob/ea9ad6f3/packages/keyring/src/pair/defaults.ts#L5)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **PKCS8_DIVIDER**: *Uint8Array‹›* = new Uint8Array([161, 35, 3, 33, 0])
 
-*Defined in [pair/defaults.ts:6](https://github.com/polkadot-js/common/blob/b8411bb0/packages/keyring/src/pair/defaults.ts#L6)*
+*Defined in [pair/defaults.ts:6](https://github.com/polkadot-js/common/blob/ea9ad6f3/packages/keyring/src/pair/defaults.ts#L6)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **PKCS8_HEADER**: *Uint8Array‹›* = new Uint8Array([48, 83, 2, 1, 1, 48, 5, 6, 3, 43, 101, 112, 4, 34, 4, 32])
 
-*Defined in [pair/defaults.ts:7](https://github.com/polkadot-js/common/blob/b8411bb0/packages/keyring/src/pair/defaults.ts#L7)*
+*Defined in [pair/defaults.ts:7](https://github.com/polkadot-js/common/blob/ea9ad6f3/packages/keyring/src/pair/defaults.ts#L7)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **PUB_LENGTH**: *32* = 32
 
-*Defined in [pair/defaults.ts:8](https://github.com/polkadot-js/common/blob/b8411bb0/packages/keyring/src/pair/defaults.ts#L8)*
+*Defined in [pair/defaults.ts:8](https://github.com/polkadot-js/common/blob/ea9ad6f3/packages/keyring/src/pair/defaults.ts#L8)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **SEC_LENGTH**: *64* = 64
 
-*Defined in [pair/defaults.ts:9](https://github.com/polkadot-js/common/blob/b8411bb0/packages/keyring/src/pair/defaults.ts#L9)*
+*Defined in [pair/defaults.ts:9](https://github.com/polkadot-js/common/blob/ea9ad6f3/packages/keyring/src/pair/defaults.ts#L9)*
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 • **SEED_LENGTH**: *32* = 32
 
-*Defined in [pair/defaults.ts:10](https://github.com/polkadot-js/common/blob/b8411bb0/packages/keyring/src/pair/defaults.ts#L10)*
+*Defined in [pair/defaults.ts:10](https://github.com/polkadot-js/common/blob/ea9ad6f3/packages/keyring/src/pair/defaults.ts#L10)*

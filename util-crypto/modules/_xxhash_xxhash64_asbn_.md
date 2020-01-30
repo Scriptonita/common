@@ -14,7 +14,7 @@
 
 ▸ **xxhash64AsBn**(`data`: Buffer | Uint8Array | string, `seed`: number): *BN*
 
-*Defined in [xxhash/xxhash64/asBn.ts:23](https://github.com/polkadot-js/common/blob/b8411bb0/packages/util-crypto/src/xxhash/xxhash64/asBn.ts#L23)*
+*Defined in [xxhash/xxhash64/asBn.ts:23](https://github.com/polkadot-js/common/blob/ea9ad6f3/packages/util-crypto/src/xxhash/xxhash64/asBn.ts#L23)*
 
 **`name`** xxhash64AsBn
 
