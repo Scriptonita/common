@@ -15,7 +15,7 @@
 
 ▸ **format**(`value`: any): *any*
 
-*Defined in [logger.ts:49](https://github.com/polkadot-js/common/blob/ea9ad6f3/packages/util/src/logger.ts#L49)*
+*Defined in [logger.ts:49](https://github.com/polkadot-js/common/blob/f4be1fe5/packages/util/src/logger.ts#L49)*
 
 **Parameters:**
 
@@ -31,7 +31,7 @@ ___
 
 ▸ **logger**(`_type`: string): *[Logger](../interfaces/_types_.logger.md)*
 
-*Defined in [logger.ts:109](https://github.com/polkadot-js/common/blob/ea9ad6f3/packages/util/src/logger.ts#L109)*
+*Defined in [logger.ts:109](https://github.com/polkadot-js/common/blob/f4be1fe5/packages/util/src/logger.ts#L109)*
 
 **`name`** Logger
 

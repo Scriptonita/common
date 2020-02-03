@@ -12,15 +12,17 @@
 
 ###  detectPackage
 
-▸ **detectPackage**(`__namedParameters`: object): *void*
+▸ **detectPackage**(`path`: string, `__namedParameters`: object): *void*
 
-*Defined in [detectPackage.ts:26](https://github.com/polkadot-js/common/blob/ea9ad6f3/packages/util/src/detectPackage.ts#L26)*
+*Defined in [detectPackage.ts:46](https://github.com/polkadot-js/common/blob/f4be1fe5/packages/util/src/detectPackage.ts#L46)*
 
 **`name`** detectPackage
 
 **`summary`** Checks that a specific package is only imported once
 
 **Parameters:**
+
+▪ **path**: *string*
 
 ▪ **__namedParameters**: *object*
 

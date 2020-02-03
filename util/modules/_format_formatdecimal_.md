@@ -14,7 +14,7 @@
 
 ▸ **formatDecimal**(`value`: string): *string*
 
-*Defined in [format/formatDecimal.ts:7](https://github.com/polkadot-js/common/blob/ea9ad6f3/packages/util/src/format/formatDecimal.ts#L7)*
+*Defined in [format/formatDecimal.ts:7](https://github.com/polkadot-js/common/blob/f4be1fe5/packages/util/src/format/formatDecimal.ts#L7)*
 
 **Parameters:**
 
