@@ -14,7 +14,7 @@
 
 ▸ **isToBn**(`value?`: any): *value is ToBn*
 
-*Defined in [is/toBn.ts:10](https://github.com/polkadot-js/common/blob/f4be1fe5/packages/util/src/is/toBn.ts#L10)*
+*Defined in [is/toBn.ts:10](https://github.com/polkadot-js/common/blob/90ca8a0d/packages/util/src/is/toBn.ts#L10)*
 
 **Parameters:**
 

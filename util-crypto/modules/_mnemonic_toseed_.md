@@ -14,7 +14,7 @@
 
 ▸ **toSeed**(`mnemonic`: string, `password`: string): *Uint8Array*
 
-*Defined in [mnemonic/toSeed.ts:26](https://github.com/polkadot-js/common/blob/f4be1fe5/packages/util-crypto/src/mnemonic/toSeed.ts#L26)*
+*Defined in [mnemonic/toSeed.ts:26](https://github.com/polkadot-js/common/blob/90ca8a0d/packages/util-crypto/src/mnemonic/toSeed.ts#L26)*
 
 **`name`** toSeed
 
