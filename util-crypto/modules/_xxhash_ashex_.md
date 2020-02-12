@@ -14,7 +14,7 @@
 
 ▸ **xxhashAsHex**(`data`: Buffer | Uint8Array | string, `bitLength`: number): *string*
 
-*Defined in [xxhash/asHex.ts:23](https://github.com/polkadot-js/common/blob/fc9a5ac2/packages/util-crypto/src/xxhash/asHex.ts#L23)*
+*Defined in [xxhash/asHex.ts:23](https://github.com/polkadot-js/common/blob/8eef3f99/packages/util-crypto/src/xxhash/asHex.ts#L23)*
 
 **`name`** xxhashAsHex
 

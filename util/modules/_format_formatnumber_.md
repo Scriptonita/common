@@ -14,7 +14,7 @@
 
 ▸ **formatNumber**<**ExtToBn**>(`value?`: ExtToBn | BN | number | null): *string*
 
-*Defined in [format/formatNumber.ts:12](https://github.com/polkadot-js/common/blob/fc9a5ac2/packages/util/src/format/formatNumber.ts#L12)*
+*Defined in [format/formatNumber.ts:12](https://github.com/polkadot-js/common/blob/8eef3f99/packages/util/src/format/formatNumber.ts#L12)*
 
 **Type parameters:**
 
