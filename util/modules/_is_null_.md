@@ -14,7 +14,7 @@
 
 ▸ **isNull**(`value?`: any): *value is null*
 
-*Defined in [is/null.ts:20](https://github.com/polkadot-js/common/blob/3769b99c/packages/util/src/is/null.ts#L20)*
+*Defined in [is/null.ts:20](https://github.com/polkadot-js/common/blob/3910853b/packages/util/src/is/null.ts#L20)*
 
 **`name`** isNull
 

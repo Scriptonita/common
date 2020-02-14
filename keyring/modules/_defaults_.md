@@ -15,7 +15,7 @@
 
 • **DEV_PHRASE**: *"bottom drive obey lake curtain smoke basket hold race lonely fit walk"* = "bottom drive obey lake curtain smoke basket hold race lonely fit walk"
 
-*Defined in [defaults.ts:6](https://github.com/polkadot-js/common/blob/3769b99c/packages/keyring/src/defaults.ts#L6)*
+*Defined in [defaults.ts:6](https://github.com/polkadot-js/common/blob/3910853b/packages/keyring/src/defaults.ts#L6)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **DEV_SEED**: *"0xfac7959dbfe72f052e5a0c3c8d6530f202b02fd8f9f5ca3580ec8deb7797479e"* = "0xfac7959dbfe72f052e5a0c3c8d6530f202b02fd8f9f5ca3580ec8deb7797479e"
 
-*Defined in [defaults.ts:9](https://github.com/polkadot-js/common/blob/3769b99c/packages/keyring/src/defaults.ts#L9)*
+*Defined in [defaults.ts:9](https://github.com/polkadot-js/common/blob/3910853b/packages/keyring/src/defaults.ts#L9)*

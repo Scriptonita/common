@@ -14,7 +14,7 @@
 
 ▸ **setSS58Format**(`prefix`: [Prefix](_address_types_.md#prefix)): *void*
 
-*Defined in [address/setSS58Format.ts:9](https://github.com/polkadot-js/common/blob/3769b99c/packages/util-crypto/src/address/setSS58Format.ts#L9)*
+*Defined in [address/setSS58Format.ts:9](https://github.com/polkadot-js/common/blob/3910853b/packages/util-crypto/src/address/setSS58Format.ts#L9)*
 
 **Parameters:**
 
