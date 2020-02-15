@@ -21,7 +21,7 @@
 
 • **address**: *string*
 
-*Defined in [types.ts:30](https://github.com/polkadot-js/common/blob/48b753b8/packages/keyring/src/types.ts#L30)*
+*Defined in [types.ts:30](https://github.com/polkadot-js/common/blob/6194660b/packages/keyring/src/types.ts#L30)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **encoded**: *string*
 
-*Defined in [types.ts:31](https://github.com/polkadot-js/common/blob/48b753b8/packages/keyring/src/types.ts#L31)*
+*Defined in [types.ts:31](https://github.com/polkadot-js/common/blob/6194660b/packages/keyring/src/types.ts#L31)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **encoding**: *[KeyringPair$JsonEncoding](_types_.keyringpair_jsonencoding.md)*
 
-*Defined in [types.ts:32](https://github.com/polkadot-js/common/blob/48b753b8/packages/keyring/src/types.ts#L32)*
+*Defined in [types.ts:32](https://github.com/polkadot-js/common/blob/6194660b/packages/keyring/src/types.ts#L32)*
 
 ___
 
@@ -45,4 +45,4 @@ ___
 
 • **meta**: *[KeyringPair$Meta](_types_.keyringpair_meta.md)*
 
-*Defined in [types.ts:33](https://github.com/polkadot-js/common/blob/48b753b8/packages/keyring/src/types.ts#L33)*
+*Defined in [types.ts:33](https://github.com/polkadot-js/common/blob/6194660b/packages/keyring/src/types.ts#L33)*
