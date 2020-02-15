@@ -23,6 +23,7 @@
 * ["compact/types"](modules/_compact_types_.md)
 * ["detectPackage"](modules/_detectpackage_.md)
 * ["format/formatBalance"](modules/_format_formatbalance_.md)
+* ["format/formatDate"](modules/_format_formatdate_.md)
 * ["format/formatDecimal"](modules/_format_formatdecimal_.md)
 * ["format/formatElapsed"](modules/_format_formatelapsed_.md)
 * ["format/formatNumber"](modules/_format_formatnumber_.md)
